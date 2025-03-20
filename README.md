@@ -2,6 +2,9 @@
 
 This project implements a Hotel Management System using Python, allowing for room allocation, customer management, and billing.
 
+## Academic Assessment  
+A detailed analysis of this projects results, and limitations is available in the [accompanying paper](docs/Hotel_Trial&Error_Paper.pdf).  
+
 ## Features
 
 - Add and delete rooms
