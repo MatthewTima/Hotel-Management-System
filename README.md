@@ -47,3 +47,20 @@ Contributions are welcome. Please open an issue first to discuss what you would 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
